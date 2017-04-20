@@ -1,0 +1,114 @@
+Analysis
+	Tree depth: 21
+	Cross Validation
+		Mean: 48.5
+		Standard Error: 2.2
+Fields
+	Target
+		8.000000e+00
+	Inputs
+		0.000000e+00
+		9.305931e-04
+		6.187371e-05
+		5.301205e-01
+		0.000000e+00 (24)
+		0.000000e+00 (95)
+		8.836287e-06
+		0.000000e+00 (61)
+		1.434584e-04
+		0.000000e+00 (90)
+		3.689320e-01
+		8.245633e-05
+		6.923566e-05
+		1.538942e-03
+		3.714286e-01
+		4.872827e-05
+		4.748700e-05
+		1.987887e-04
+		7.730227e-05
+		1.291767e-06
+		0.000000e+00 (12)
+		0.000000e+00 (13)
+		2.857143e-01
+		0.000000e+00 (8)
+		6.821313e-04
+		5.804435e-04
+		3.748784e-06
+		0.000000e+00 (71)
+		0.000000e+00 (36)
+		0.000000e+00 (34)
+		0.000000e+00 (27)
+		0.000000e+00 (84)
+		0.000000e+00 (91)
+		0.000000e+00 (30)
+		0.000000e+00 (96)
+		1.751057e-03
+		1.753243e-03
+		0.000000e+00 (11)
+		0.000000e+00 (4)
+		5.637485e-05
+		3.620145e-04
+		0.000000e+00 (31)
+		0.000000e+00 (19)
+		0.000000e+00 (69)
+		4.201968e-04
+		0.000000e+00 (87)
+		0.000000e+00 (17)
+		0.000000e+00 (25)
+		0.000000e+00 (98)
+		0.000000e+00 (9)
+		0.000000e+00 (93)
+		6.296599e-05
+		3.763976e-03
+		0.000000e+00 (82)
+		0.000000e+00 (6)
+		0.000000e+00 (20)
+		0.000000e+00 (33)
+		0.000000e+00 (14)
+		0.000000e+00 (94)
+		5.913844e-04
+		0.000000e+00 (62)
+		0.000000e+00 (1)
+		0.000000e+00 (21)
+		0.000000e+00 (39)
+		1.394016e-04
+		0.000000e+00 (81)
+		0.000000e+00 (80)
+		3.500000e-01
+		4.547851e-04
+		0.000000e+00 (3)
+		0.000000e+00 (53)
+		0.000000e+00 (45)
+		0.000000e+00 (52)
+		0.000000e+00 (7)
+		0.000000e+00 (66)
+		0.000000e+00 (29)
+		0.000000e+00 (10)
+		0.000000e+00 (63)
+		0.000000e+00 (5)
+Build Settings
+	Use partitioned data: false
+	Calculate predictor importance: false
+	Calculate raw propensity scores: false
+	Calculate adjusted propensity scores: false
+	Use weight: false
+	Output type: Decision tree
+	Group symbolics: false
+	Use boosting: true
+	Number of trials: 10
+	Cross-validate: true
+	Number of folds: 10
+	Mode: Expert
+	Pruning severity: 75
+	Minimum records per child branch: 2
+	Winnow attributes: false
+	Use global pruning: false
+	Use misclassification costs: true
+Training Summary
+	Algorithm: C5
+	Model type: Classification
+	Stream: E:\thesis\hpc\New Folder\Stream3-ensemble2.str
+	User: Glc
+	Date built: 3/10/16 6:10 PM
+	Application: IBM® SPSS® Modeler 14.2
+	Elapsed time for model build: 0 hours, 0 mins, 15 secs

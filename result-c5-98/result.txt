@@ -1,0 +1,7 @@
+Results for output field 8.000000e+00
+	Comparing $XS1-8.000000e+00 with 8.000000e+00
+		'Partition'            1_Training            2_Testing       
+		Correct                       176   98.88%          49   100%
+		Wrong                           2    1.12%           0     0%
+		Total                         178                   49       
+
